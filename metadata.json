@@ -1,0 +1,5 @@
+{
+  "name": "SimPargne - Simulateur d'Épargne et Assurance Vie",
+  "description": "Un simulateur interactif pour projeter la croissance de votre épargne et de votre assurance vie en France, en tenant compte des versements, du profil de risque et de la fiscalité.",
+  "requestFramePermissions": []
+}
